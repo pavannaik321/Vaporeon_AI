@@ -1,5 +1,5 @@
 
-export const GeminiApiKey = 'AIzaSyDQmGmDhxOLRT3wBH1GoV678rx2U8MmiFs';
+export const GeminiApiKey = '';
 
 export const dummyMessages = [
     {
